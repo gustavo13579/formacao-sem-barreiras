@@ -49,7 +49,6 @@ admin.html        área administrativa
 img/ videos/      imagens e vídeos
 ```
 
-*(ajuste os nomes conforme a sua pasta)*
 
 ## Equipe
 
